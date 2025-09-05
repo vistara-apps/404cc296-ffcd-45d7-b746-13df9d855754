@@ -1,0 +1,14 @@
+{
+  "name": "GuardianGuide",
+  "description": "GuardianGuide is a Base Mini App built with Zara.",
+  "image": "https://dummyimage.com/1200x628/0a0b0d/ffffff.png&text=OG",
+  "external_url": "https://404cc296-ffcd-45d7-b746-13df9d855754.vercel.app",
+  "properties": {
+    "app": {
+      "name": "GuardianGuide",
+      "description": "GuardianGuide is a Base Mini App built with Zara.",
+      "url": "https://404cc296-ffcd-45d7-b746-13df9d855754.vercel.app",
+      "icon": "https://0co.to/images/zara-2.png"
+    }
+  }
+}
